@@ -1,5 +1,8 @@
 <h1>My Name Is Travis!</h1>
-<p>I'm just gooning, and stuff! And nothing to do!</p>
+<p>Hey, My name is Travis, I was born in New York City.
+My Passion Is To Code!
+I Wanna Be Just Like Terry!
+</p>
 
 
 <h2>Coding Langs That I Know!</h2>
