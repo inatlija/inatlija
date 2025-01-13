@@ -14,7 +14,6 @@ I Wanna Be Just Like Terry!
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
 
-
 ## Social's:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hy7evGqykR) 
 # Stats:
@@ -22,9 +21,3 @@ I Wanna Be Just Like Terry!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=travyyyyyyyyyyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=travyyyyyyyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-## Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=travyyyyyyyyyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=travyyyyyyyyyyy&icon=0&color=0)](https://visitcount.itsvg.in)
