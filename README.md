@@ -23,7 +23,7 @@ I Wanna Be Just Like Terry!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=travyyyyyyyyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-### Top Contributed Repo
+## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=travyyyyyyyyyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
