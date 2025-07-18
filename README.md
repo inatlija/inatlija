@@ -28,7 +28,7 @@
 
 <h2>Social's:</h2>
 <p>
-  <a href="https://discord.gg/hy7evGqykR">
+  <a href="https://discord.gg/W8TUmeFUY9">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://stackoverflow.com/users/29187748/inatlija">
