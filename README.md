@@ -27,6 +27,7 @@
 </p>
 
 <h2>socials</h2>
-<textarea rows="2" cols="50" readonly>
-discord if you wanna send feet or date or talk either one is fine: inatlijaa
-</textarea>
+<textarea rows="2" cols="50" readonly>discord if you wanna send feet or date or talk either one is fine: inatlijaa</textarea>
+
+</body>
+</html>
