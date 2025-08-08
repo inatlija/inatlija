@@ -1,4 +1,4 @@
-<h1>Hi</h1>
+<h1>hi</h1>
 
 <p>yhhh, i like to skid, uhhh... and that’s about it.</p>
 
