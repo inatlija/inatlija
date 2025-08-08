@@ -1,9 +1,9 @@
-<h1>I'm Ryan!</h1>
+<h1>hi</h1>
 <p>
-  I’m a passionate developer skilled in Go, JavaScript, TypeScript, Node.js, Python, and Zig. I enjoy building clean, efficient code and solving problems through technology. Always eager to learn and grow, I love tackling new challenges and collaborating with others to create meaningful software.
+uhhh i like to skid, uhhh and thats about it
 </p>
 
-<h2>Coding languages I know!</h2>
+<h2>what i know</h2>
 
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;">
@@ -24,6 +24,9 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="zig" width="42" height="42" />
   </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="42" height="42" />
+</a>
 </p>
 
 <h2>Social's:</h2>
