@@ -29,12 +29,5 @@ uhhh i like to skid, uhhh and thats about it
 </a>
 </p>
 
-<h2>Social's:</h2>
-<p>
-  <a href="https://discord.gg/W8TUmeFUY9">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://stackoverflow.com/users/29187748/inatlija">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-</p>
+<h2>social's:</h2>
+<textarea rows="4" cols="50">discord if you wanna date or talk either is fine: inatlijaa</textarea>
