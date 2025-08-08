@@ -29,5 +29,4 @@
 
 <h2>socials</h2>
 
-```text
 discord if you wanna send feet or date or talk either one is fine: inatlijaa
