@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Profile</title>
+</head>
+<body>
+
 <h1>Hi</h1>
 <p>yhhh, i like to skid, uhhh... and that’s about it.</p>
 
