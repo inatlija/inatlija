@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Profile</title>
-</head>
-<body>
-
 <h1>Hi</h1>
+
 <p>yhhh, i like to skid, uhhh... and that’s about it.</p>
 
 <h2>what i know:</h2>
@@ -35,7 +28,6 @@
 </p>
 
 <h2>socials</h2>
-<textarea rows="2" cols="50" readonly>discord if you wanna send feet or date or talk either one is fine: inatlijaa</textarea>
 
-</body>
-</html>
+```text
+discord if you wanna send feet or date or talk either one is fine: inatlijaa
