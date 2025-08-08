@@ -1,7 +1,7 @@
 <h1>Hi</h1>
 <p>yhhh, i like to skid, uhhh... and that’s about it.</p>
 
-<h2>What I Know</h2>
+<h2>what i know:</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42">
