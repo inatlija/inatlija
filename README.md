@@ -29,4 +29,4 @@
 
 <h2>socials</h2>
 
-discord if you wanna send feet or date or talk either one is fine: inatlijaa
+discord if you wanna send feet or date or talk either one is fine: travy.wtf
